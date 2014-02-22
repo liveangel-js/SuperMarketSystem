@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data
+END
+IDataWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/IDataWriter.java
+END
+MemberData.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/MemberData.java
+END
+CommodityRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/CommodityRecord.java
+END
+IDataUpdate.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/IDataUpdate.java
+END
+IDataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/IDataReader.java
+END
+MemberRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/MemberRecord.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/Record.java
+END
+CommodityData.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/22/trunk/MarketClient/src/mscs/data/CommodityData.java
+END

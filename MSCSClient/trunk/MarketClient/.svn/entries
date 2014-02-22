@@ -1,0 +1,125 @@
+8
+
+dir
+90
+https://myseproject.googlecode.com/svn/trunk/MarketClient
+https://myseproject.googlecode.com/svn
+
+
+
+2011-10-21T12:09:10.850102Z
+24
+winniecrystal23@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfa83c00-f6e6-f215-b541-5418cd5d7651
+
+build
+dir
+
+.classpath
+file
+
+
+
+
+2011-11-24T08:23:09.042448Z
+ecc4a5528ce52c10edc05171862e7e28
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+customers.txt
+file
+
+
+
+
+2011-11-24T08:23:09.057449Z
+0e9b2abb2ee1fbe158d487b77669085b
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+dist
+dir
+
+.project
+file
+
+
+
+
+2011-11-24T08:23:09.069449Z
+08181ba33327e2f3b2db66927eb55829
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+MarketClient.rar
+file
+
+
+
+
+2011-11-24T08:23:09.103451Z
+b9c00219b718c50f89d78341b6a0f795
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+has-props
+
+lib
+dir
+
+src
+dir
+
+bin
+dir
+
+.myeclipse
+dir
+
+junitTest
+dir
+
+goods.txt
+file
+
+
+
+
+2011-11-24T08:23:09.116452Z
+1e9a3b38ddb527741aa0d807f4cea788
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+reports
+dir
+
+build.xml
+file
+
+
+
+
+2011-11-24T08:23:09.128453Z
+3e258be0746aa16e8ad82fa55e68b522
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/24/trunk/MarketClient
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/MarketClient/.classpath
+END
+customers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/MarketClient/customers.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/22/trunk/MarketClient/.project
+END
+MarketClient.rar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/MarketClient/MarketClient.rar
+END
+goods.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/MarketClient/goods.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/MarketClient/build.xml
+END

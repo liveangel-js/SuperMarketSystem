@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/172/branches/MSCS/src/logic/interfaces
+END
+SaleGiftInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/172/branches/MSCS/src/logic/interfaces/SaleGiftInterface.java
+END
+WorkerManageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/302/branches/MSCS/src/logic/interfaces/WorkerManageInterface.java
+END
+GoodsManageInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/169/branches/MSCS/src/logic/interfaces/GoodsManageInterface.java
+END
+ItemDiscountInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/172/branches/MSCS/src/logic/interfaces/ItemDiscountInterface.java
+END
+LoginInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/169/branches/MSCS/src/logic/interfaces/LoginInterface.java
+END
+ItemGiftInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/172/branches/MSCS/src/logic/interfaces/ItemGiftInterface.java
+END
+SaleDiscountInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/172/branches/MSCS/src/logic/interfaces/SaleDiscountInterface.java
+END

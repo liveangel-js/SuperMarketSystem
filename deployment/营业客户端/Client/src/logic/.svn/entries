@@ -1,0 +1,25 @@
+8
+
+dir
+106
+https://myseproject.googlecode.com/svn/branches/Client/src/logic
+https://myseproject.googlecode.com/svn
+
+
+
+2011-11-25T03:12:41.767301Z
+106
+qifanmo@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+model
+dir
+
+controller
+dir
+
+interfaces
+dir
+

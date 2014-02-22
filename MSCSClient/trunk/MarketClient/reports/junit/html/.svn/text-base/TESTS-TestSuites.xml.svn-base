@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="softwware-PC" id="0" name="SaleControllerTest" package="" tests="1" time="0.0" timestamp="2011-10-14T06:26:19">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1426" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <error message="SaleControllerTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: SaleControllerTest
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:200)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:252)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+</error>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="softwware-PC" id="1" name="SaleDataTest" package="" tests="1" time="0.0" timestamp="2011-10-14T06:26:20">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1426" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <error message="SaleDataTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: SaleDataTest
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:200)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:252)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+</error>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="softwware-PC" id="2" name="SaleModelTest" package="" tests="1" time="0.0" timestamp="2011-10-14T06:26:21">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1426" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <error message="SaleModelTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: SaleModelTest
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:200)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:252)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+</error>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="1" failures="0" hostname="softwware-PC" id="3" name="ViewTest" package="" tests="1" time="0.0" timestamp="2011-10-14T06:26:22">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1426" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <error message="ViewTest" type="java.lang.ClassNotFoundException">java.lang.ClassNotFoundException: ViewTest
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:200)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:188)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:307)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:301)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:252)
+	at java.lang.ClassLoader.loadClassInternal(ClassLoader.java:320)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:169)
+</error>
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="softwware-PC" id="4" name="SaleControllerTest" package="mscs.testCase" tests="4" time="0.081" timestamp="2011-10-14T06:48:49">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1448" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <testcase classname="mscs.testCase.SaleControllerTest" name="testGetUserInfo" time="0.033" />
+
+      <testcase classname="mscs.testCase.SaleControllerTest" name="testGetGoodInfo" time="0.0020" />
+
+      <testcase classname="mscs.testCase.SaleControllerTest" name="testAddItem" time="0.0010" />
+
+      <testcase classname="mscs.testCase.SaleControllerTest" name="testBuy" time="0.0010" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="softwware-PC" id="5" name="SaleDataTest" package="mscs.testCase" tests="2" time="0.084" timestamp="2011-10-14T06:48:50">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1448" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <testcase classname="mscs.testCase.SaleDataTest" name="testReadMemberDataByID" time="0.035" />
+
+      <testcase classname="mscs.testCase.SaleDataTest" name="testReadCommodityDataByID" time="0.0020" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="softwware-PC" id="6" name="SaleModelTest" package="mscs.testCase" tests="4" time="0.082" timestamp="2011-10-14T06:48:51">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1448" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <testcase classname="mscs.testCase.SaleModelTest" name="testGetUserInfo" time="0.03" />
+
+      <testcase classname="mscs.testCase.SaleModelTest" name="testGetGoodInfo" time="0.0020" />
+
+      <testcase classname="mscs.testCase.SaleModelTest" name="testAddItem" time="0.0020" />
+
+      <testcase classname="mscs.testCase.SaleModelTest" name="testBuy" time="0.0030" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="softwware-PC" id="7" name="ViewTest" package="mscs.testCase" tests="4" time="0.087" timestamp="2011-10-14T06:48:52">
+      <properties>
+          <property name="java.vendor" value="Sun Microsystems Inc." />
+
+          <property name="sun.java.launcher" value="SUN_STANDARD" />
+
+          <property name="eclipse.pdebuild.templates" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/templates/" />
+
+          <property name="sun.management.compiler" value="HotSpot Client Compiler" />
+
+          <property name="dist" value="dist" />
+
+          <property name="lib" value="lib" />
+
+          <property name="os.name" value="Windows Vista" />
+
+          <property name="sun.boot.class.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\resources.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\rt.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\sunrsasign.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jsse.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\jce.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\charsets.jar;E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\classes" />
+
+          <property name="TODAY" value="October 14 2011" />
+
+          <property name="report" value="reports" />
+
+          <property name="sun.desktop" value="windows" />
+
+          <property name="java.vm.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="ant.home" value="C:\Program Files\apache-ant-1.8.2" />
+
+          <property name="java.runtime.version" value="1.6.0_13-b03" />
+
+          <property name="user.name" value="softwware" />
+
+          <property name="ant.file.MarketClient" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="ant.file.type.MarketClient" value="file" />
+
+          <property name="report.xml" value="reports/junit/xml" />
+
+          <property name="user.language" value="zh" />
+
+          <property name="build" value="build" />
+
+          <property name="sun.boot.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin" />
+
+          <property name="ant.project.default-target" value="test" />
+
+          <property name="ant.project.name" value="MarketClient" />
+
+          <property name="DSTAMP" value="20111014" />
+
+          <property name="java.version" value="1.6.0_13" />
+
+          <property name="user.timezone" value="" />
+
+          <property name="sun.arch.data.model" value="32" />
+
+          <property name="classpath" value="C:\Users\softwware\Desktop\MarketClient\build" />
+
+          <property name="java.endorsed.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\endorsed" />
+
+          <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86" />
+
+          <property name="sun.jnu.encoding" value="GBK" />
+
+          <property name="file.encoding.pkg" value="sun.io" />
+
+          <property name="file.separator" value="\" />
+
+          <property name="java.specification.name" value="Java Platform API Specification" />
+
+          <property name="java.class.version" value="50.0" />
+
+          <property name="src" value="src" />
+
+          <property name="user.country" value="CN" />
+
+          <property name="java.home" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre" />
+
+          <property name="java.vm.info" value="mixed mode" />
+
+          <property name="ant.file" value="C:\Users\softwware\Desktop\MarketClient\build.xml" />
+
+          <property name="os.version" value="6.1" />
+
+          <property name="path.separator" value=";" />
+
+          <property name="java.vm.version" value="11.3-b02" />
+
+          <property name="user.variant" value="" />
+
+          <property name="ant.library.dir" value="C:\Program Files\apache-ant-1.8.2\lib" />
+
+          <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+
+          <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+
+          <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+
+          <property name="eclipse.pdebuild.scripts" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/scripts/" />
+
+          <property name="user.home" value="C:\Users\softwware" />
+
+          <property name="java.specification.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.library.path" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;E:/Program Files/MyEclipse8.5/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\DMIX;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.6.0_26\bin;C:\Program Files\Java\jdk1.6.0_26\jre\bin;E:\Program Files\TortoiseSVN\bin;C:\Program Files\apache-ant-1.8.2\bin" />
+
+          <property name="java.vendor.url" value="http://java.sun.com/" />
+
+          <property name="java.vm.vendor" value="Sun Microsystems Inc." />
+
+          <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+
+          <property name="java.class.path" value="C:\Users\softwware\Desktop\MarketClient\build;C:\Users\softwware\Desktop\MarketClient\lib\appframework-1.0.3.jar;C:\Users\softwware\Desktop\MarketClient\lib\junit-4.5.jar;C:\Users\softwware\Desktop\MarketClient\lib\swing-worker-1.1.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-launcher.jar;C:\Program Files\apache-ant-1.8.2\lib\ant.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit.jar;C:\Program Files\apache-ant-1.8.2\lib\ant-junit4.jar" />
+
+          <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+
+          <property name="report.html" value="reports/junit/html" />
+
+          <property name="TSTAMP" value="1448" />
+
+          <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+
+          <property name="java.vm.specification.version" value="1.0" />
+
+          <property name="sun.cpu.endian" value="little" />
+
+          <property name="sun.os.patch.level" value="" />
+
+          <property name="eclipse.pdebuild.home" value="/E:/Program Files/MyEclipse8.5/Common/plugins/org.eclipse.pde.build_3.5.2.R35x_20100114/./" />
+
+          <property name="java.io.tmpdir" value="C:\Users\SOFTWW~1\AppData\Local\Temp\" />
+
+          <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi" />
+
+          <property name="testSrc" value="junitTest" />
+
+          <property name="os.arch" value="x86" />
+
+          <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+
+          <property name="java.ext.dirs" value="E:\Program Files\MyEclipse8.5\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+
+          <property name="user.dir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="line.separator" value="&#xd;&#xa;" />
+
+          <property name="java.vm.name" value="Java HotSpot(TM) Client VM" />
+
+          <property name="basedir" value="C:\Users\softwware\Desktop\MarketClient" />
+
+          <property name="ant.java.version" value="1.6" />
+
+          <property name="ant.core.lib" value="C:\Program Files\apache-ant-1.8.2\lib\ant.jar" />
+
+          <property name="file.encoding" value="GBK" />
+
+          <property name="java.specification.version" value="1.6" />
+
+          <property name="ant.project.invoked-targets" value="test" />
+
+      </properties>
+
+      <testcase classname="mscs.testCase.ViewTest" name="testGetUserInfo" time="0.032" />
+
+      <testcase classname="mscs.testCase.ViewTest" name="testGetGoodInfo" time="0.0020" />
+
+      <testcase classname="mscs.testCase.ViewTest" name="testGetTotalPrice" time="0.0" />
+
+      <testcase classname="mscs.testCase.ViewTest" name="testAddItem" time="0.0" />
+
+      <system-out><![CDATA[]]></system-out>
+
+      <system-err><![CDATA[]]></system-err>
+
+  </testsuite>
+</testsuites>

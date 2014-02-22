@@ -1,0 +1,127 @@
+8
+
+dir
+90
+https://myseproject.googlecode.com/svn/trunk/MSCSClient2
+https://myseproject.googlecode.com/svn
+
+
+
+2011-11-23T15:22:41.170747Z
+76
+qifanmo@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfa83c00-f6e6-f215-b541-5418cd5d7651
+
+.project
+file
+
+
+
+
+2011-11-24T08:23:11.525590Z
+c1cfe1e81382fb5c91a461b2ee58e518
+2011-10-23T06:21:17.769836Z
+38
+winniecrystal23@gmail.com
+
+src
+dir
+
+.externalToolBuilders
+dir
+
+junitTest
+dir
+
+build.xml
+file
+
+
+
+
+2011-11-24T08:23:11.575593Z
+8cdf6cacb58f41c6cc9aa7fac01fa321
+2011-10-23T06:56:18.882011Z
+40
+winniecrystal23@gmail.com
+
+reports
+dir
+
+build
+dir
+
+.classpath
+file
+
+
+
+
+2011-11-24T08:23:11.512589Z
+03ee33bcbb24115e4ecc0f31c474dffd
+2011-10-23T01:48:19.947521Z
+30
+winniecrystal23@gmail.com
+
+dist
+dir
+
+Admin.txt
+file
+
+
+
+
+2011-11-24T08:23:11.537591Z
+464d4d33bc9b1acc6e724a59451b421e
+2011-10-23T06:01:14.683880Z
+36
+winniecrystal23@gmail.com
+
+lib
+dir
+
+bin
+dir
+
+Item.txt
+file
+
+
+
+
+2011-11-24T08:23:11.563592Z
+454b1ce3f2f8ae797c14decd5f0e2e24
+2011-10-23T06:01:14.683880Z
+36
+winniecrystal23@gmail.com
+
+vip.txt
+file
+
+
+
+
+2011-11-24T08:23:11.550591Z
+e6cc28e72ccac84ccfabd907fbbbee00
+2011-10-23T06:01:14.683880Z
+36
+winniecrystal23@gmail.com
+
+.settings
+dir
+

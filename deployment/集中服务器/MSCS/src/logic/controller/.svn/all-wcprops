@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/172/branches/MSCS/src/logic/controller
+END
+SaleDiscountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/172/branches/MSCS/src/logic/controller/SaleDiscountController.java
+END
+SaleGiftController.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/172/branches/MSCS/src/logic/controller/SaleGiftController.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/150/branches/MSCS/src/logic/controller/Controller.java
+END
+WorkerManageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/branches/MSCS/src/logic/controller/WorkerManageController.java
+END
+GoodsManageController.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/169/branches/MSCS/src/logic/controller/GoodsManageController.java
+END
+ItemDiscountController.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/172/branches/MSCS/src/logic/controller/ItemDiscountController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/259/branches/MSCS/src/logic/controller/LoginController.java
+END
+ItemGiftController.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/172/branches/MSCS/src/logic/controller/ItemGiftController.java
+END

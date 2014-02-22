@@ -1,0 +1,67 @@
+8
+
+dir
+90
+https://myseproject.googlecode.com/svn/trunk/MarketClient/src/mscs/view
+https://myseproject.googlecode.com/svn
+
+
+
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfa83c00-f6e6-f215-b541-5418cd5d7651
+
+resources
+dir
+
+View.java
+file
+
+
+
+
+2011-11-24T08:23:05.013217Z
+fef9f8efeab6814cd9eb9063cf5ad704
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+View.form
+file
+
+
+
+
+2011-11-24T08:23:05.027218Z
+f92e8dc6bec3fabf84d5b0af9934c1ff
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+
+ApplicationRunner.java
+file
+
+
+
+
+2011-11-24T08:23:05.040219Z
+75e212e461e9123be279008bad0b2d0d
+2011-10-21T10:53:56.832758Z
+22
+winniecrystal23@gmail.com
+

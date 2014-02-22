@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/221/branches/MSCS/src/net
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/231/branches/MSCS/src/net/Connection.java
+END
+CommandThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/291/branches/MSCS/src/net/CommandThread.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/231/branches/MSCS/src/net/Command.java
+END
+ServerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/273/branches/MSCS/src/net/ServerThread.java
+END

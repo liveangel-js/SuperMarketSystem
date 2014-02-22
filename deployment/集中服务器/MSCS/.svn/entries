@@ -1,0 +1,88 @@
+8
+
+dir
+222
+https://myseproject.googlecode.com/svn/branches/MSCS
+https://myseproject.googlecode.com/svn
+
+
+
+2011-12-08T10:02:18.053885Z
+222
+qifanmo@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dfa83c00-f6e6-f215-b541-5418cd5d7651
+
+.classpath
+file
+
+
+
+
+2011-12-03T11:59:50.251443Z
+9f82584197dc7ed3779dc448ca6265a1
+2011-12-03T11:59:34.993752Z
+163
+qifanmo@gmail.com
+
+.project
+file
+
+
+
+
+2011-11-27T04:51:39.097001Z
+7d520b33cf3b5a808f1fb69d1e6025c3
+2011-11-26T15:00:38.417593Z
+122
+liveangel.js@gmail.com
+
+lib
+dir
+
+src
+dir
+
+数据
+dir
+
+info
+dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+deleted
+
+.settings
+dir
+

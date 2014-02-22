@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/179/branches/MSCS/src/data
+END
+ShopData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/282/branches/MSCS/src/data/ShopData.java
+END
+WorkerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/branches/MSCS/src/data/WorkerData.java
+END
+GoodsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/263/branches/MSCS/src/data/GoodsData.java
+END
+DataWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/257/branches/MSCS/src/data/DataWriter.java
+END
+ShopRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/282/branches/MSCS/src/data/ShopRecord.java
+END
+WorkerRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/branches/MSCS/src/data/WorkerRecord.java
+END
+ReturnData.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/branches/MSCS/src/data/ReturnData.java
+END
+Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/302/branches/MSCS/src/data/Data.java
+END
+Shop.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/283/branches/MSCS/src/data/Shop.java
+END
+Goods.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/263/branches/MSCS/src/data/Goods.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/258/branches/MSCS/src/data/Record.java
+END
+ReturnRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/branches/MSCS/src/data/ReturnRecord.java
+END
+SaleData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/257/branches/MSCS/src/data/SaleData.java
+END
+SaleRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/branches/MSCS/src/data/SaleRecord.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/257/branches/MSCS/src/data/Admin.java
+END
+VIPData.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/282/branches/MSCS/src/data/VIPData.java
+END
+ItemData.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/300/branches/MSCS/src/data/ItemData.java
+END
+DataReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/248/branches/MSCS/src/data/DataReader.java
+END
+ItemRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/branches/MSCS/src/data/ItemRecord.java
+END
+VIPRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/282/branches/MSCS/src/data/VIPRecord.java
+END

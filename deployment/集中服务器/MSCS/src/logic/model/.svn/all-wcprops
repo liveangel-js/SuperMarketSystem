@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/178/branches/MSCS/src/logic/model
+END
+SaleGiftModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/292/branches/MSCS/src/logic/model/SaleGiftModel.java
+END
+WorkerManageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/302/branches/MSCS/src/logic/model/WorkerManageModel.java
+END
+GoodsManageModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/263/branches/MSCS/src/logic/model/GoodsManageModel.java
+END
+ItemDiscountModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/292/branches/MSCS/src/logic/model/ItemDiscountModel.java
+END
+LoginModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/150/branches/MSCS/src/logic/model/LoginModel.java
+END
+ItemGiftModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/292/branches/MSCS/src/logic/model/ItemGiftModel.java
+END
+SaleDiscountModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/292/branches/MSCS/src/logic/model/SaleDiscountModel.java
+END

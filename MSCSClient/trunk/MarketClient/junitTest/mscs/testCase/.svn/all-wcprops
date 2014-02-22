@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/MarketClient/junitTest/mscs/testCase
+END
+SaleModelTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/22/trunk/MarketClient/junitTest/mscs/testCase/SaleModelTest.java
+END
+SaleControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/22/trunk/MarketClient/junitTest/mscs/testCase/SaleControllerTest.java
+END
+ViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/22/trunk/MarketClient/junitTest/mscs/testCase/ViewTest.java
+END
+SaleDataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/22/trunk/MarketClient/junitTest/mscs/testCase/SaleDataTest.java
+END
