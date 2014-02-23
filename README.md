@@ -1,6 +1,6 @@
 # SuperMarketSystem
 =================
-This is a homework of Compute % Software Engineering in Nanjing University Software Institute.
+This is a homework of Compute & Software Engineering (CSE) in Nanjing University Software Institute.
 This is designed as three terminal, Cashier Client, Shop Server and Centralized Server
 (南京大学软件学院 软工2)
 ## Overview
