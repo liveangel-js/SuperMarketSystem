@@ -1,4 +1,5 @@
 # SuperMarketSystem
+This is designed as three terminal, Cashier Client, Shop Server and Centralized Server applied to supermarket
 =================
 + This is a homework of Compute & Software Engineering (CSE) in Nanjing University Software Institute.
 + This is designed as three terminal, Cashier Client, Shop Server and Centralized Server
